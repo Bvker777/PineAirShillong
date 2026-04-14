@@ -1,0 +1,11 @@
+node_modules/
+.next/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+bun.lock
+bun.lock
+public/images/
+public/logo.webp
