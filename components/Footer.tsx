@@ -110,7 +110,7 @@ const Footer = () => {
                     rel="noopener noreferrer"
                     className="hover:text-pine-accent transition-colors"
                   >
-                    Malki, Shillong,<br />Meghalaya 793001
+                    Pine Air, Opposite Mawroh Community Hall Mawroh <br /> Meghalaya, Shillong – 793008
                   </a>
                 </div>
               </li>
