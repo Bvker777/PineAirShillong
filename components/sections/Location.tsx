@@ -20,7 +20,7 @@ export const Location: React.FC = () => {
                 <h3 className="font-serif text-xl text-pine-charcoal">Find Us</h3>
               </div>
               <p className="text-pine-gray leading-relaxed font-light pl-14">
-                Pine Air, Opposite Mawroh Community Hall Mawroh Shillong – 793008
+                Mawroh Kyntonlieh. Opposite Mawroh Dorbar Shnong Office. <br /> Shillong 793008.
               </p>
             </div>
 

@@ -110,7 +110,7 @@ const Footer = () => {
                     rel="noopener noreferrer"
                     className="hover:text-pine-accent transition-colors"
                   >
-                    Pine Air, Opposite Mawroh Community Hall Mawroh <br /> Meghalaya, Shillong – 793008
+                    Mawroh Kyntonlieh. Opposite Mawroh Dorbar Shnong Office. <br /> Shillong 793008.
                   </a>
                 </div>
               </li>
