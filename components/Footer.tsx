@@ -131,8 +131,8 @@ const Footer = () => {
                 </div>
                 <div className="text-sm">
                   <p className="text-white font-medium mb-1">Email Us</p>
-                  <a href="mailto:pineairshillong@gmail.com" className="hover:text-pine-accent transition-colors lowercase">
-                    pineairshillong@gmail.com
+                  <a href="mailto: contactpineair@gmail.com" className="hover:text-pine-accent transition-colors lowercase">
+                    contactpineair@gmail.com
                   </a>
                 </div>
               </li>
