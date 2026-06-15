@@ -33,7 +33,7 @@ export const Location: React.FC = () => {
               </div>
               <p className="text-pine-gray leading-relaxed font-light pl-14">
                 +91 879 433 8802<br />
-                contact@pineairshillong.com
+                pineairshillong@gmail.com
               </p>
             </div>
 

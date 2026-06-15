@@ -1,4 +1,4 @@
-import type {Metadata} from 'next';
+import type { Metadata } from 'next';
 import { Lora, Montserrat } from 'next/font/google';
 import Script from 'next/script';
 import './globals.css'; // Global styles
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
 
 const GA_TRACKING_ID = process.env.NEXT_PUBLIC_GA_ID || 'G-R1GL5GEQD9';
 
-export default function RootLayout({children}: {children: React.ReactNode}) {
+export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
     <html lang="en" className={`${lora.variable} ${montserrat.variable} scroll-smooth`} suppressHydrationWarning>
       <body className="font-sans bg-[#f9f9f6] text-[#333333] antialiased selection:bg-pine-accent/30 selection:text-pine-charcoal" suppressHydrationWarning>
